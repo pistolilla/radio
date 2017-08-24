@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<centovacast>
+<request class="server" method="playlist">
+<username>$username</username>
+<password>$password</password>
+<action>deactivate</action>
+<playlistname>h140617</playlistname>
+</request>
+</centovacast>
